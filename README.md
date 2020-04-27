@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Screenshot
 
-<img src="ss/ss.jpeg" width="200" height="200">
+<img src="SS/SS.jpeg" width="500" height="500">
 
 ## Getting Started
 
